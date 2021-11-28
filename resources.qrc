@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Machine_Learning_Deslizamientos" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
